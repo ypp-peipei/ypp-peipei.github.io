@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ypp-peipei.github.io/sitemap.xml
